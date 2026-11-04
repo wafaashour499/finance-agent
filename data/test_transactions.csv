@@ -1,0 +1,101 @@
+date,description,amount,type,category,label
+6/25/2026,  Tech Corp Salary,,income, Salary  ,0
+4/9/2026,Internet Provider,,expense, Utilities  ,2
+1/7/2026,Monthly Rent,,Expense,Rent,1
+5/11/2026,  Subway ticket,,expense,Transport,2
+2/17/2026,McDonalds,,EXPENSE,food,0
+2/17/2026,McDonalds,,EXPENSE,food,0
+6/4/2026,Zara,,expense, Shopping  ,0
+,Subway ticket,,EXPENSE,Transport,1
+6/29/2026,  Internet Provider,,expense,Utilities,0
+3/19/2026,,,EXPENSE,healthcare,2
+5/22/2026,Nike,Ô,expense,shopping,2
+1/21/2026,Spotify,á,expense, Entertainment  ,0
+4/15/2026,Netflix,Ê,expense, Entertainment  ,0
+4/26/2026,Zara,0,expense, Shopping  ,2
+3/5/2026,Spotify,Î,expense,entertainment,1
+3/15/2026,Dentist,Í,EXPENSE, Healthcare  ,1
+3/2/2026,Monthly Wages,2365.75,INCOME,Salary,0
+not-a-date,  Doctor Visit,925.9,expense,Healthcare,1
+5/9/2026,Internet Provider,-100,expense,Utilities,2
+ ,Water Bill,3448.41,EXPENSE,Utilities,1
+2/5/2026,Steam,705.21,expense,entertainment,1
+5/12/2026,Apartment Lease,2211.72,expense,Rent,0
+1/12/2026,  Monthly Wages,5877.08,income,salary,1
+2/23/2026,Steam,3135.61,EXPENSE,Entertainment,1
+6/17/2026,Apartment Lease,4012.16,expense, Rent  ,2
+6/10/2026,Gas Station,4542.52,transfer,transport,0
+2/17/2026,Local Cafe,2673.03,expense,Food,0
+6/10/2026,,4325.23,expense, Food  ,0
+4/9/2026,  Best Buy,3811,expense,Shopping,0
+3/7/2026,Walmart,4786.28,EXPENSE,groceries,0
+1/13/2026,Local Supermarket,2113.69,expense,Groceries,1
+2/10/2026,Steam,2081.79,expense, Entertainment  ,1
+3/7/2026,Walmart,4786.28,EXPENSE,groceries,0
+2/22/2026,Cinema,2443.71,expense,Entertainment,1
+4/19/2026,Dentist,2658,expense,Healthcare,2
+4/25/2026,Steam,1106.1,Expense,Entertainment,1
+2/16/2026,Water Bill,-50.5,expense, Utilities  ,2
+unknown,  Local Cafe,4619.94,expense,food,2
+3/23/2026,Uber,3098.81,expense,Transport,2
+4/23/2026,Tech Corp Salary,3567.29,INCOME,Salary,1
+5/1/2026,Best Buy,3320.95,EXPENSE,Shopping,1
+5/4/2026,Pizza delivery,1393.48,EXPENSE,Food,1
+4/26/2026,Monthly Wages,3114.95,income,salary,0
+6/15/2026,,3864.51,expense,,1
+6/29/2026,Local Supermarket,4767.73,expense, Groceries  ,2
+2/18/2026,  Apartment Lease, ,EXPENSE,rent,0
+1/4/2026,Tech Corp Salary,3196.16,INCOME,salary,2
+5/10/2026,Tech Corp Salary,5377.04,Income,Salary,0
+6/20/2026,Apple Store,294.34,Expense, Shopping  ,2
+3/21/2026,Pharmacy,2352.7,  ,healthcare,1
+6/28/2026,Pharmacy,1001.87,expense,Healthcare,1
+4/25/2026,Steam,1106.1,Expense,Entertainment,1
+3/15/2026,Pharmacy,256.17,expense,Healthcare,1
+4/16/2026,Apple Store,2193.73,expense,Shopping,2
+4/15/2026,Amazon,3650.01,expense,Shopping,0
+2/3/2026,Internet Provider,3741.93,expense,Utilities,2
+1/29/2026,  Pharmacy,2286.65,EXPENSE,,1
+2/6/2026,Bus pass,4038.45,EXPENSE,Transport,0
+2/1/2026,Bus pass,4512.7,EXPENSE,Transport,1
+5/30/2026,Amazon,22.71,expense,Shopping,0
+5/29/2026,  Bus pass,3498.83,EXPENSE,Transport,1
+2/4/2026,Dentist,,expense,Healthcare,2
+2/14/2026,Netflix,696.18,expense,entertainment,1
+30-01-2026,  Local Cafe,3129.45,EXPENSE,Food,2
+2/12/2026,  Internet Provider,2000.01,Expense,utilities,0
+5/16/2026,  Gas Station,4021.53,expense, Transport  ,2
+1/14/2026,Cinema,1824.29,expense, Entertainment  ,2
+5/4/2026,Subway ticket,1021.97,expense, Transport  ,1
+5/6/2026,Pizza delivery,4735.57,expense,,0
+6/27/2026,Bus pass,1981.18,expense,Transport,2
+5/27/2026,Best Buy,205.96,, Shopping  ,0
+4/5/2026,,2235.5,expense,,1
+1/2/2026,  Monthly Wages,5530.64,Income,salary,0
+1/7/2026,Netflix,2954.51,EXPENSE,Entertainment,0
+4/14/2026,Pharmacy,4903.71,expense, Healthcare  ,0
+4/26/2026,Doctor Visit,abc,expense,Healthcare,1
+1/1/2027,Bus pass,2255.32,expense,Transport,1
+3/10/2026,Water Bill,34.45,expense,Utilities,1
+4/15/2026,  Monthly Wages,6090.26,income, Salary  ,1
+1/23/2026,Internet Provider,4921.26,Expense,utilities,1
+2026-02-30,Spotify,3488.6,expense,Entertainment,2
+2/28/2026,Uber,3487.48,Expense,Transport,2
+4/17/2026,Walmart,3300.46,expense,Groceries,0
+4/15/2026,Amazon,3650.01,expense,Shopping,0
+1/5/2026,  Whole Foods,544.95,expense,Groceries,1
+2/24/2026,Monthly Rent,2573.21,expense,Rent,2
+5/14/2026,  Nike,626.15,unknown,Shopping,1
+1/6/2026,  Freelance Project,5622.28,purchase,Salary,0
+1/7/2026,Netflix,2954.51,EXPENSE,Entertainment,0
+2/17/2026,Gas Station,127,expense,Transport,1
+1/31/2026,Monthly Wages,3435.78,income,,1
+4/2/2026,  Water Bill,4175.38,Expense,Utilities,0
+1/14/2026,Water Bill,1396.62,expense,Utilities,1
+1/9/2026,Monthly Rent,3524.34,expense,rent,2
+1/31/2026,Internet Provider,2232.34,expense,Utilities,2
+5/11/2026,Subway ticket,1981.95,expense, Transport  ,2
+1/29/2026,Water Bill,2001.27,expense,Utilities,2
+5/24/2026,Cinema,not-a-number,expense,Entertainment,1
+4/9/2026,McDonalds,2690.48,EXPENSE, Food  ,1
+1/11/2026,,2212.99,Expense,Healthcare,0

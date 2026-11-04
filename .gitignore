@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local development and cache files
+venv/
+.venv/
+.pytest_cache/
+.DS_Store
+.vscode/

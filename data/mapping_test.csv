@@ -1,0 +1,4 @@
+Transaction Date,Transaction Amount,Expense Category,Details,Transaction Type
+2026-01-05,500,Food,Restaurant,expense
+2026-01-10,15000,Salary,Monthly Salary,income
+2026-01-15,250,Transport,Taxi,expense

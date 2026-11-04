@@ -1,0 +1,3 @@
+from analysis_tools import detect_isolation_forest_anomalies
+
+print(detect_isolation_forest_anomalies())
