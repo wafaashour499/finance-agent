@@ -84,6 +84,14 @@ def run_financial_investigation(file_path, question=None, date_format=None):
         },
     )
     
+    total = 0
+    for msg in result["messages"]:
+        usage = getattr(msg, "usage_metadata", None)
+        if usage:
+            print(f"LLM call: {usage['input_tokens']} in / {usage['output_tokens']} out")
+            total += usage["total_tokens"]
+    print("Total tokens:", total)
+
     for msg in result["messages"]:
         for call in getattr(msg, "tool_calls", None) or []:
             print("TOOL:", call["name"], call["args"])
@@ -97,6 +105,6 @@ if __name__ == "__main__":
 
     run_financial_investigation(
         file_path,
-        question=None,
+        question="Investigate my finances and tell me what needs attention.",
         date_format=None,
     )

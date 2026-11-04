@@ -1,4 +1,3 @@
-
 from tools import (
     get_financial_summary,
     investigate_spending_increases,

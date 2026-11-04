@@ -1,0 +1,8 @@
+# TODO
+- Get financial summary
+- Identify spending increases
+- Detect unusual transactions (statistical)
+- Detect ML anomalies
+- For each finding, drill down with category trend or transaction list
+- Save findings to /findings.md
+- Produce final report
